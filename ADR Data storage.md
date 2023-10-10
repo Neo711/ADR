@@ -13,6 +13,12 @@ We have chosen to implement a combination of **Relational Database Management Sy
 
 ## Rationale
 
+### Pros:
+
+- Scalability and flexibility in managing various types of data.
+- Ensures data consistency and integrity for crucial data points.
+- Both databases have strong communities, ensuring regular updates and patches.
+
 - **RDBMS (PostgreSQL)**:
   - Well-suited for structured data like user profiles, class schedules, and grades.
   - Strong ACID (Atomicity, Consistency, Isolation, Durability) properties ensuring data integrity.
@@ -30,12 +36,6 @@ We have chosen to implement a combination of **Relational Database Management Sy
 - **Security**: PostgreSQL and MongoDB both offer advanced security features, including encryption at rest and in transit, and can be configured to adhere to data protection regulations.
 
 ## Consequences
-
-### Pros:
-
-- Scalability and flexibility in managing various types of data.
-- Ensures data consistency and integrity for crucial data points.
-- Both databases have strong communities, ensuring regular updates and patches.
 
 ### Cons:
 

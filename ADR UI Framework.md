@@ -13,6 +13,12 @@ After a detailed evaluation of various UI frameworks, we've decided to use **Flu
 
 ## Rationale
 
+### Pros:
+
+- Unified development process for both platforms.
+- Access to a wide range of widgets to accelerate the UI/UX development process.
+- Strong community support and frequent updates.
+
 - **Cross-platform**: Flutter allows for the development of both iOS and Android apps from a single codebase, aligning with our requirement for widespread adoption.
 
 - **Performance**: Flutter compiles to native machine code, ensuring optimal performance even on lower-end devices.
@@ -29,12 +35,6 @@ After a detailed evaluation of various UI frameworks, we've decided to use **Flu
 
 ## Consequences
 
-### Pros:
-
-- Unified development process for both platforms.
-- Access to a wide range of widgets to accelerate the UI/UX development process.
-- Strong community support and frequent updates.
-  
 ### Cons:
 
 - Being a relatively newer framework, some niche native features might require custom implementation or bridge modules.

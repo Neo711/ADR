@@ -13,6 +13,12 @@ After evaluating the pros and cons of Native, Web, and Hybrid app development ap
 
 ## Rationale
 
+### Pros:
+
+- Faster development cycle as the core is written once for both platforms.
+- Cost-effective in terms of development and maintenance.
+- Flexibility to access native device features when required.
+
 - **Multi-platform Support**: Hybrid frameworks allow us to write the core of our app once and deploy it to both iOS and Android, ensuring widespread adoption.
   
 - **Offline Capabilities**: Hybrid apps can store data locally and synchronize when back online, providing a seamless user experience.
@@ -29,12 +35,6 @@ After evaluating the pros and cons of Native, Web, and Hybrid app development ap
 
 ## Consequences
 
-### Pros:
-
-- Faster development cycle as the core is written once for both platforms.
-- Cost-effective in terms of development and maintenance.
-- Flexibility to access native device features when required.
-  
 ### Cons:
 
 - May not have the extreme high performance of native apps in some intricate scenarios.
